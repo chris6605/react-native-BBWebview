@@ -1,4 +1,4 @@
-# react-native-overtimeWebview
+# react-native-BBWebview
 带超时机制的 webview
 默认的超时时间为10秒
 可以接受 onLoadEnd onMessage navigateStateChange 的回调
